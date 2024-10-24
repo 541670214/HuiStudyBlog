@@ -6,7 +6,7 @@
   <link href="https://541670214.github.io/HuiStudyBlog/atom.xml" rel="self"/>
   
   <link href="https://541670214.github.io/HuiStudyBlog/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2024-10-24T14:00:00.000Z</updated>
   <id>https://541670214.github.io/HuiStudyBlog/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-10-24-我的第一篇博客</title>
+    <link href="https://541670214.github.io/HuiStudyBlog/posts/efd3dd3d.html"/>
+    <id>https://541670214.github.io/HuiStudyBlog/posts/efd3dd3d.html</id>
+    <published>2024-10-24T10:19:03.000Z</published>
+    <updated>2024-10-24T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello Word!</p><h1>1.Markdown语法自带格式</h1><div class="note info flat"><p>参考：<a href="https://blog.csdn.net/u014061630/article/details/81359144">Markdown语法图文全面详解(10分钟学会)</a></p></div><div class="note warning flat"><p>注意：此页面偶尔会存在CSS冲突问题!</p></div>]]></content>
+    
+    
+    <summary type="html">🥧我的第一篇博客，可作为文档进行查询</summary>
+    
+    
+    
+    <category term="Java基础" scheme="https://541670214.github.io/HuiStudyBlog/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="数据库" scheme="https://541670214.github.io/HuiStudyBlog/categories/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Markdown" scheme="https://541670214.github.io/HuiStudyBlog/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://541670214.github.io/HuiStudyBlog/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
