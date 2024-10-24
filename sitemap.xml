@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://541670214.github.io/HuiStudyBlog/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://541670214.github.io/HuiStudyBlog/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://541670214.github.io/HuiStudyBlog/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -102,6 +84,24 @@
   
   <url>
     <loc>https://541670214.github.io/HuiStudyBlog/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -196,14 +196,14 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/categories/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/categories/Java%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
