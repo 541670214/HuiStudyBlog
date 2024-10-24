@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/box/animation/index.html</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -38,7 +38,25 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/box/nav/index.html</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/personal/about/index.html</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,7 +101,16 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/personal/love/index.html</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://541670214.github.io/HuiStudyBlog/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,34 +128,7 @@
   </url>
   
   <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://541670214.github.io/HuiStudyBlog/social/link/index.html</loc>
+    <loc>https://541670214.github.io/HuiStudyBlog/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
